@@ -11,3 +11,7 @@ build/
 doc/*.txt
 # ignorer tous les fichiers .txt sous le répertoire doc/
 doc/**/*.txt
+AndroidApplicationLivraison/bin
+AndroidApplicationLivraison/gen
+AndroidApplicationLivraison/libs
+AndroidApplicationLivraison/project.properties
