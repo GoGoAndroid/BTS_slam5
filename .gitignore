@@ -16,3 +16,5 @@ AndroidApplicationLivraison/gen
 AndroidApplicationLivraison/libs
 AndroidApplicationLivraison/project.properties
 AndroidApplicationLivraison/.classpath
+AndroidApplicationLivraison/.settings
+AndroidApplicationLivraison/.project
